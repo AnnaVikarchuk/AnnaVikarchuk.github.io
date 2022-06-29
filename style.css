@@ -1,0 +1,118 @@
+div.topLine {
+    height: 25px;
+    width: 100%;
+    background-color: lightblue;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+img {
+    width: 158px;
+    height: 140px;
+    border-radius: 15px;
+}
+
+td.h1 {
+/* border: 1px solid black; */
+width: 100%;
+
+}
+
+h1, p {
+    padding-left: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, serif;
+}
+
+p {
+    font-size: 25px;
+    /* border: 1px solid black; */
+    margin-top: -15px;
+}
+
+table.contacts {
+    margin-top: 8px;
+}
+
+td.icon img {
+    width: 25px;
+    height: 25px;
+    padding-left: 8px;
+}
+
+td.iconGithab img {
+    width: 30px;
+    height: 30px;
+}
+
+.mail, 
+.phone, 
+.location,
+.github {
+    padding-left: 5px;
+    
+}
+
+td {
+    /* border: 1px solid black; */
+    padding: 0 10px;
+}
+
+a {
+    color: rgb(4, 198, 242);
+    font-weight: bold;
+    text-decoration-line: none;
+}
+
+td.jobTitle,
+td.educationTitle,
+td.skillsTitle {
+    width: 40%;
+    font-size: 25px;
+    font-weight: 520;
+    padding-bottom: 5px;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 5px;
+    padding-left: 20px;
+    /* border: 1px solid black; */
+}
+
+p.position,
+p.faculcy,
+p.elbrus {
+    font-size: 17px;
+    padding-left: 1px;
+    margin-top: 5px;
+    /* border: 1px solid black; */
+}
+
+td.companyTitle {
+    padding-left: 20px;
+    font-size: 17px;
+}
+
+td.universityTitle {
+    vertical-align: top;
+    padding-top: 10px;
+    padding-left: 20px;
+    font-size: 17px;
+}
+
+li {
+    line-height: 1.6em;
+}
+
+td.skills {
+    padding-left: 20px;
+    font-size: 17px;
+}
+
+div.footer {
+    height: 25px;
+    width: 100%;
+    background-color: lightblue;
+    border-radius: 3px;
+    margin-top: 128px;
+}
+
+
